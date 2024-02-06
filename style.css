@@ -1,8 +1,4 @@
 /* font */
-@font-face {
-  font-family: "fasthand";
-  src: url(font/Fasthand-Regular.ttf);
-}
 
 @font-face {
   font-family: "poppins";
@@ -28,7 +24,7 @@ nav {
 
 nav .nama {
   color: aquamarine;
-  font-family: "fasthand", sans-serif;
+  font-family: "poppins", sans-serif;
   letter-spacing: 2px;
 }
 
